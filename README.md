@@ -5,6 +5,7 @@ Extract all the different styles of emoji from emojipedia.org into PNG format wi
 
 * Python 3
 * [bs4](https://pypi.org/project/beautifulsoup4/)
+* [lxml](https://pypi.org/project/lxml/)
 
 
 # How to use:
